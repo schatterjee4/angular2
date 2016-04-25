@@ -5,6 +5,9 @@
 附带传送门[https://github.com/qq83387856/ng2-book-code/tree/master/%E7%94%B5%E5%AD%90%E4%B9%A6](https://github.com/qq83387856/ng2-book-code/tree/master/电子书)
 ######想要ng-book(1.5.x)源码请check。[传送门](https://github.com/qq83387856/ng-book-code/tree/master)
 ####### ng-book 英文原版（1.5.x）和中文版(1.2.x)本传送门 [https://github.com/qq83387856/ng-book-code/tree/master/pdf](https://github.com/qq83387856/ng-book-code/tree/master/pdf)
+>更新版本 R30
+######更新时间 20160425
+#####改动：基本上就是一些package.json版本的更新代码内容没什么变化。
 
 ###下面就是官方对ng2-book的说明了，不关我啥事....
 
