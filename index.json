@@ -72,6 +72,16 @@
       "examples": [
         "advanced_components"
       ]
+    },
+    {
+      "name": "Dependency Injection",
+      "examples": [
+        "dependency_injection/simple",
+        "dependency_injection/complex",
+        "dependency_injection/injector",
+        "dependency_injection/misc",
+        "dependency_injection/value"
+      ]
     }
   ]
 }

@@ -4,10 +4,10 @@
 import {
   Component,
   Inject,
-  Injector,
+  ReflectiveInjector,
   provide,
-} from 'angular2/core';
-import {bootstrap} from 'angular2/platform/browser';
+} from '@angular/core';
+import {bootstrap} from '@angular/platform-browser-dynamic';
 
 /*
  * Services
@@ -40,7 +40,7 @@ class DiSampleApp {
   }
 
   useInjectors(): void {
-    let injector: any = Injector.resolveAndCreate([
+    let injector: any = ReflectiveInjector.resolveAndCreate([
       ViewPortService,
       provide('OtherSizeService', {useFactory: (viewport: any) => {
         return viewport.determineService();

@@ -5,8 +5,8 @@ import {
   Component,
   provide,
   Inject,
-} from 'angular2/core';
-import {bootstrap} from 'angular2/platform/browser';
+} from '@angular/core';
+import {bootstrap} from '@angular/platform-browser-dynamic';
 
 /*
  * Services
