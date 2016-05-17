@@ -1,7 +1,7 @@
 ![如果您觉得有帮助，给个star鼓励一下呗！](http://static.xiaomo.info/images/star.jpg)
 ###一、说明###
-这是n2-book配套源码,这个是我在google上花了39美刀买的，贡献出来供大家使用。如果您觉得有帮助，给个star鼓励一下呗！
-###### 说明:由于目前ng2还没有release版本，更新的频率也比较快，有可以因为比较忙没有将最新的代码更新上来。请QQ联系我索取ng2相关资料
+   这是n2-book配套源码,这个是我在google上花了39美刀买的，贡献出来供大家使用。如果您觉得有帮助，给个star鼓励一下呗！
+   由于目前ng2还没有release版本，更新的频率也比较快，有可以因为比较忙没有将最新的代码更新上来。请QQ联系我索取ng2相关资料
 ###二、ng1.5相关资料###
 * 为了方便大家使用和学习，本项目也附带上传了最新的电子书，有需要的请下载使用。附带传送门 [源码配套电子书](https://github.com/qq83387856/ng2-book-code/tree/master/电子书)
 * 想要ng-book(1.5.x)源码请check。[源码地址](https://github.com/qq83387856/ng-book-code/tree/master)
