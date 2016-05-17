@@ -1,4 +1,4 @@
-![如果您觉得有帮助，给个star鼓励一下呗！](http://static.xiaomo.info/images/star.jpg)
+[![如果您觉得有帮助，给个star鼓励一下呗！](http://static.xiaomo.info/images/star.jpg)](https://github.com/qq83387856/angular2)
 ###一、说明###
    这是n2-book配套源码,这个是我在google上花了39美刀买的，贡献出来供大家使用。如果您觉得有帮助，给个star鼓励一下呗！
    由于目前ng2还没有release版本，更新的频率也比较快，有可以因为比较忙没有将最新的代码更新上来。请QQ联系我索取ng2相关资料
