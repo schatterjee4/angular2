@@ -1,37 +1,22 @@
-###这是n2-book配套源码,这个是我在google上花了39美刀买的，贡献出来供大家使用。
+![如果您觉得有帮助，给个star鼓励一下呗！](http://static.xiaomo.info/images/star.jpg)
+###一、说明###
+这是n2-book配套源码,这个是我在google上花了39美刀买的，贡献出来供大家使用。如果您觉得有帮助，给个star鼓励一下呗！
 ###### 说明:由于目前ng2还没有release版本，更新的频率也比较快，有可以因为比较忙没有将最新的代码更新上来。请QQ联系我索取ng2相关资料
+###二、ng1.5相关资料###
+* ##### 为了方便大家使用和学习，本项目也附带上传了最新的电子书，有需要的请下载使用。附带传送门 [源码配套电子书](https://github.com/qq83387856/ng2-book-code/tree/master/电子书)
+* #####想要ng-book(1.5.x)源码请check。[源码地址](https://github.com/qq83387856/ng-book-code/tree/master)
+* ##### ng-book 英文原版（1.5.x）和中文版(1.2.x)本传送门 [1.5.x配套电子书](https://github.com/qq83387856/ng-book-code/tree/master/pdf)
 
-##### 为了方便大家使用和学习，本项目也附带上传了最新的电子书，有需要的请下载使用。
-附带传送门[https://github.com/qq83387856/ng2-book-code/tree/master/%E7%94%B5%E5%AD%90%E4%B9%A6](https://github.com/qq83387856/ng2-book-code/tree/master/电子书)
-######想要ng-book(1.5.x)源码请check。[传送门](https://github.com/qq83387856/ng-book-code/tree/master)
-####### ng-book 英文原版（1.5.x）和中文版(1.2.x)本传送门 [https://github.com/qq83387856/ng-book-code/tree/master/pdf](https://github.com/qq83387856/ng-book-code/tree/master/pdf)
->更新版本 R33
-######更新时间 20160514
-#####改动：毕竟是第一个rc版本变动挺大的，想尝试的朋友要好好看看changeLog了。。
+###三、更新日志###
+| 更新版本 |更新时间|说明|
+|:-------:|:------:|:------:|
+| R27|2016年4月17日|第27个beta版本|
+| R30|2016年4月28日|第33个beta版本|
+| R33|2016年5月14日|第1个RC版本(撒花)|
 
-###下面就是官方对ng2-book的说明了，不关我啥事....
+###四、最新改动###
+毕竟是第一个rc版本变动挺大的，想尝试的朋友要好好看看changeLog了。。
+一般我都会把最新的版本设置成默认分支。
 
-# ng-book 2: The Complete Guide to Angular 2 Sample Code
-
-## Organization
-
-Hi! Here's the sample code for the book.
-
-It's organized by `chapter/topic`. Generally, in the book we call out where you can find each code example. 
-
-## Running the code
-
-We're still unifying how each example should be run. Generally, you'll need to `npm install` and then see the `README.md` in each project for instructions to get the example going.
-
-## THIS IS AN EARLY RELEASE
-
-Angular 2 is still very young so some of the API is probably going to change. Also, we're still normalizing a build process for these examples, sorry for any clutter you might find.
-We'll send you an email when we have updates available.
-
-## Feedback & Bug Reports
-
-We're currently developing the book and this code. If you have any feedback on things that aren't clear, or find any bugs just email us at: us@fullstack.io
-
-Cheers!
-
-Nate, Felipe, and the ng-book 2 team
+###五、后记###
+我不是大牛，只是一个希望和大家一起进步的小菜鸟。欢迎光临[我的博客](http://blog.xiaomo.info)和我互动。
