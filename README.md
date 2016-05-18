@@ -22,4 +22,9 @@
 一般我都会把最新的版本设置成默认分支。
 
 ###五、后记###
-我不是大牛，只是一个希望和大家一起进步的小菜鸟。欢迎光临[我的博客](http://blog.xiaomo.info)。
+我不是大牛，只是一个希望和大家一起进步的小菜鸟。欢迎光临[我的博客](http://blog.xiaomo.info)。并且我也刚开始学angular2中，
+打算建个群一起学习,大家一起进步。
+
+[点击加入ng-book交流群或者扫码](http://jq.qq.com/?_wv=1027&k=2EV5kq6)  
+
+![扫码加入](http://static.xiaomo.info/images/angular2.png)
