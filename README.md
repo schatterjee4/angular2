@@ -25,5 +25,5 @@
 我不是大牛，只是一个希望和大家一起进步的小菜鸟。欢迎光临[我的博客](http://blog.xiaomo.info)。并且我也刚开始学angular2中，
 有兴趣的加下面的群一起学习,大家一起进步。
 
-[点击加入ng-book交流群或者扫码](http://jq.qq.com/?_wv=1027&k=29LUKS8)  
+[点击加入ng-book交流群](http://jq.qq.com/?_wv=1027&k=29LUKS8)  
 
