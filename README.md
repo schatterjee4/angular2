@@ -32,6 +32,6 @@ We'll send you an email when we have updates available.
 
 We're currently developing the book and this code. If you have any feedback on things that aren't clear, or find any bugs just email us at: us@fullstack.io
 
-Cheers!
+Cheers!!
 
 Nate, Felipe, and the ng-book 2 team
