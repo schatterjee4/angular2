@@ -39,7 +39,7 @@ function makeConfig(options) {
 
     entry: {
       vendor: 'vendor.ts',
-      bundle: entry,
+      bundle: entry
     },
 
     stats: {
@@ -61,7 +61,7 @@ function makeConfig(options) {
     output: {
       path: path.resolve(cwd, 'build'),
       filename: '[name].js',
-      publicPath: '/', // isDevServer ? './': './',
+      publicPath: '/',
       chunkFilename: '[id].bundle.js',
 
       // Hot Module Replacement settings:
@@ -127,7 +127,7 @@ function makeConfig(options) {
         { test: /\.ttf(\?v=\d+\.\d+\.\d+)?$/,         loader: 'file-loader?mimetype=application/x-font-ttf&name=[path][name].[ext]' },
         { test: /\.eot(\?v=\d+\.\d+\.\d+)?\??$/,      loader: 'file-loader?mimetype=application/vnd.ms-fontobject&name=[path][name].[ext]' },
         { test: /\.otf(\?v=\d+\.\d+\.\d+)?$/,         loader: 'file-loader?mimetype=application/font-otf&name=[path][name].[ext]' },
-        { test: /\.svg(\?v=\d+\.\d+\.\d+)?$/,         loader: 'url-loader'   },
+        { test: /\.svg(\?v=\d+\.\d+\.\d+)?$/,         loader: 'url-loader'   }
       ],
       noParse: [
         /\.min\.js/,
@@ -141,7 +141,7 @@ function makeConfig(options) {
   }
 }
 
-var config = makeConfig(argv)
+var config = makeConfig(argv);
 
-console.log(require('util').inspect(config, {depth: 10}))
+console.log(require('util').inspect(config, {depth: 10}));
 module.exports = config;
