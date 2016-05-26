@@ -37,3 +37,5 @@
 
 [点击加入ng-book交流群](http://jq.qq.com/?_wv=1027&k=29LUKS8)  
 
+另外推荐大家一个官网同步的[中文站点](http://angular.live/translate/cn/about.html),依然是angular中文社区扛起大旗帜,雪狼大神。为开源文件致敬,为大神积极推进angular2生态努力而致敬。
+
