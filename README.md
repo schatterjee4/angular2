@@ -5,14 +5,13 @@
 ### if you feel it helpful for you ,I hope that you can give a star. thank you!!
 ### 如果您觉得有帮助,希望您能给个star鼓励一下！也为了让angular2的生态圈更快的活跃起来
 
-### 一、explain ###
-### 一、说明###
+### 一、说明(explain)###
 
    this is ng-book2 study source code,I bought it on google .    
    这是ng-book2配套源码,这个是我在google上花了39美刀买的，贡献出来供大家使用。    
    
-   invoice    
-   配上发票,以证清白    
+   
+   配上发票(invoice),以证清白    
       ![fapiao](http://static.xiaomo.info/images/fapiao.png)    
       
 because of now ng2 hasn't release version, update is fast ...    
