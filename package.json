@@ -15,7 +15,7 @@
       "examples": []
     },
     {
-      "name": "How Angular Works",
+      "name": "How Angular Works demo",
       "examples": ["how_angular_works/inventory_app"]
     },
     {
