@@ -1,6 +1,6 @@
 [![如果您觉得有帮助，给个star鼓励一下呗！](http://static.xiaomo.info/images/star.jpg)](https://github.com/qq83387856/angular2) 
   
-[欢迎留言](https://blog.xiaomo.info/about) 
+[欢迎留言](http://blog.xiaomo.info/about) 
 
 ### if you feel it helpful for you ,I hope that you can give a star. thank you!!
 ### 如果您觉得有帮助,希望您能给个star鼓励一下！也为了让angular2的生态圈更快的活跃起来
