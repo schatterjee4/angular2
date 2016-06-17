@@ -27,7 +27,7 @@ describe('DemoFormSku', () => {
     fakeConsole = {};
     fakeConsole._logs = [];
     fakeConsole.log = (...theArgs) => fakeConsole._logs.push(theArgs.join(' '));
-
+    fakeConsole.warn = (...theArgs) => fakeConsole._logs.push(theArgs.join(' '));
     // replace the real console with our fake version
     _console = window.console;
     (<any>window).console = fakeConsole;

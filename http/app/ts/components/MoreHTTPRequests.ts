@@ -1,20 +1,20 @@
 /*
  * Angular
  */
-import {Component} from '@angular/core';
-import {JsonPipe, CORE_DIRECTIVES} from '@angular/common';
+import { Component } from '@angular/core';
+import { JsonPipe, CORE_DIRECTIVES } from '@angular/common';
 import {
-    Http,
-    Response,
-    RequestOptions,
-    Headers
+  Http,
+  Response,
+  RequestOptions,
+  Headers
 } from '@angular/http';
 
 @Component({
-    selector: 'more-http',
-    directives: [CORE_DIRECTIVES],
-    pipes: [JsonPipe],
-    template: `
+  selector: 'more-http',
+  directives: [CORE_DIRECTIVES],
+  pipes: [JsonPipe],
+  template: `
   <h2>More Requests</h2>
   <button type="button" (click)="makePost()">Make Post</button>
   <button type="button" (click)="makeDelete()">Make Delete</button>
@@ -24,46 +24,46 @@ import {
 `
 })
 export class MoreHTTPRequests {
-    data:Object;
-    loading:boolean;
+  data: Object;
+  loading: boolean;
 
-    constructor(public http:Http) {
-    }
+  constructor(public http: Http) {
+  }
 
-    makePost():void {
-        this.loading = true;
-        this.http.post(
-            'http://jsonplaceholder.typicode.com/posts',
-            JSON.stringify({
-                body: 'bar',
-                title: 'foo',
-                userId: 1
-            }))
-            .subscribe((res:Response) => {
-                this.data = res.json();
-                this.loading = false;
-            });
-    }
+  makePost(): void {
+    this.loading = true;
+    this.http.post(
+      'http://jsonplaceholder.typicode.com/posts',
+      JSON.stringify({
+        body: 'bar',
+        title: 'foo',
+        userId: 1
+      }))
+      .subscribe((res: Response) => {
+        this.data = res.json();
+        this.loading = false;
+      });
+  }
 
-    makeDelete():void {
-        this.loading = true;
-        this.http.delete('http://jsonplaceholder.typicode.com/posts/1')
-            .subscribe((res:Response) => {
-                this.data = res.json();
-                this.loading = false;
-            });
-    }
+  makeDelete(): void {
+    this.loading = true;
+    this.http.delete('http://jsonplaceholder.typicode.com/posts/1')
+      .subscribe((res: Response) => {
+        this.data = res.json();
+        this.loading = false;
+      });
+  }
 
-    makeHeaders():void {
-        let headers:Headers = new Headers();
-        headers.append('X-API-TOKEN', 'ng-book');
+  makeHeaders(): void {
+    let headers: Headers = new Headers();
+    headers.append('X-API-TOKEN', 'ng-book');
 
-        let opts:RequestOptions = new RequestOptions();
-        opts.headers = headers;
+    let opts: RequestOptions = new RequestOptions();
+    opts.headers = headers;
 
-        this.http.get('http://jsonplaceholder.typicode.com/posts/1', opts)
-            .subscribe((res:Response) => {
-                this.data = res.json();
-            });
-    }
+    this.http.get('http://jsonplaceholder.typicode.com/posts/1', opts)
+      .subscribe((res: Response) => {
+        this.data = res.json();
+      });
+  }
 }

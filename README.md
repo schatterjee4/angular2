@@ -1,6 +1,6 @@
 [![如果您觉得有帮助，给个star鼓励一下呗！](http://static.xiaomo.info/images/star.jpg)](https://github.com/qq83387856/angular2) 
   
-[欢迎留言](https://github.com/qq83387856/angular2/issues) 
+[欢迎留言](https://blog.xiaomo.info/about) 
 
 ### if you feel it helpful for you ,I hope that you can give a star. thank you!!
 ### 如果您觉得有帮助,希望您能给个star鼓励一下！也为了让angular2的生态圈更快的活跃起来
@@ -30,14 +30,15 @@ because of now ng2 hasn't release version, update is fast ...
 |:-------:|:------:|:---------:|
 | R27|2016年4月17日|第27个beta版本|
 | R30|2016年4月28日|第30个beta版本|
-| R33|2016年5月14日|第1个RC版本(撒花)|
+| R33|2016年5月14日|第1个RC版本|
+| R34|2016年6月17日|第2个RC版本(撒花)|
 
 ###四、最新改动(latest change)###
-毕竟是第一个rc版本变动挺大的，想尝试的朋友要好好看看changeLog了。。
+修复了一大堆BUG，感觉离正式版越来越近了，真是好激动。。
 一般我都会把最新的版本设置成默认分支。
 
 ###五、后记(other)###
-我不是大牛，只是一个希望和大家一起进步的小菜鸟。欢迎光临[我的博客](http://blog.xiaomo.info)。并且我也刚开始学angular2中，
+我不是大牛，只是一个希望和大家一起进步的小菜鸟。欢迎光临[小莫的博客](http://blog.xiaomo.info)。并且我也刚开始学angular2中，
 有兴趣的加下面的群一起学习,大家一起进步。
 
 [点击加入ng-book交流群](http://jq.qq.com/?_wv=1027&k=29LUKS8)  
