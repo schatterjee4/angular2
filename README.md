@@ -6,7 +6,7 @@
       
 because of now ng2 hasn't release version, update is fast ...    
    
->PS:in order to convenient for we use or study, I Will offer the pdf.but I cant't do it . if you need it ,please buy it at [https://www.ng-book.com/](https://www.ng-book.com/#packages)    
+>PS:in order to convenient for we use or study, I should offer the pdf.but I cant't do it . If you need it ,please buy it at [https://www.ng-book.com/](https://www.ng-book.com/#packages)    
 
 ###2、about ng1.5 ###
 * if you need ng-book(1.5.x)source code plase check。[address](https://github.com/qq83387856/ng-book-code/tree/master)
